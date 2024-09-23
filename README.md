@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif)
+![MasterHead](https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Zidan Rai</h1>
 <h3 align="center">A Passionate Game Developer</h3>
