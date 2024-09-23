@@ -1,6 +1,4 @@
-<div style="text-align:center;">
-  <img src="https://media.tenor.com/ZlsejtGu7ckAAAAd/better-shuba-duck-pixel-shuba-duck.gif" alt="MasterHead">
-</div>
+![MasterHead](https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif)
 
 <h1 align="center">Hi 👋, I'm Zidan Rai</h1>
 <h3 align="center">A Passionate Game Developer</h3>
