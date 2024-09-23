@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SlimeProject**
 - 🌱 I’m currently learning **C#, C++, Unity**
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Unity Engine**
 - 📫 How to reach me: **zidanchamlingrai@gmail.com**
 
 ---
