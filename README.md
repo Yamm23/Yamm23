@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif)
+![MasterHead](https://th.bing.com/th/id/R.bd565dcc0a556add0b0a0ed6b26d686e?rik=0BYuF9JkX5vd%2fQ&riu=http%3a%2f%2fimg2.joyreactor.com%2fpics%2fpost%2ffull%2fgif-pixel-art-train-3677003.gif&ehk=MCdYEMu4kpw4pQSIbwRe%2bPfjjmto6C6ReICj%2fpuZdHc%3d&risl=&pid=ImgRaw&r=0)
 
 <h1 align="center">Hi 👋, I'm Zidan Rai</h1>
 <h3 align="center">A Passionate Game Developer</h3>
