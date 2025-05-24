@@ -1,4 +1,4 @@
-![MasterHead](./Media\japanesetemple.gif)
+![MasterHead](./Media/japanesetemple.gif)
 <h1 align="center">Hi 👋, I'm Zidan Rai</h1>
 <h3 align="center">A aspiring AI/ML Developer</h3>
 
