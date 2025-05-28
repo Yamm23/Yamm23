@@ -22,5 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamm23&show_icons=true&locale=en" alt="yamm23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamm23&" alt="yamm23" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamm23)
+
 
